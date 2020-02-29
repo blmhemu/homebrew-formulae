@@ -1,6 +1,6 @@
 cask 'ueli' do
-    version '8.5.2'
-    sha256 '1b208f76c7740076379fbd6327761a27ef22b989f65f6ca15192e1ba1e39513f'
+    version '8.5.3'
+    sha256 'bdf1f3a579d8c35b4c0030afe88c6c5ff019920f262809bf518a21883ae51e74'
 
     url "https://github.com/oliverschwendener/ueli/releases/download/v#{version}/ueli-#{version}.dmg"
     appcast 'https://github.com/oliverschwendener/ueli/releases.atom'
